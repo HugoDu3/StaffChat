@@ -1,0 +1,11 @@
+staffjoin: '&6StaffChat &8➤ &b{player} &ea rejoint le serveur &b{server}&e.'
+staffmove: '&6StaffChat &8➤ &b{player} &eest allé du serveur &b{from}&e au serveur &b{to}&e.'
+staffleave: '&6StaffChat &8➤ &b{player} &ea quitté le serveur &b{server}&e.'
+
+staffmessage: '&8(&c&l{server}&8) &6&lStaff &e{player} &8➤ &6&l{message}'
+
+enabled: '&aTous les messages que tu envoies seront désormais dans le chat du staff.'
+
+disabled: '&cTous les messages que tu envoies seront désormais dans le chat normal.'
+
+prefix: '#'
